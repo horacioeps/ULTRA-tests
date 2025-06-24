@@ -1,0 +1,12 @@
+Ligand_Name,Best_Affinity_kcal_mol,Second_Best_kcal_mol,Third_Best_kcal_mol,Runtime_seconds
+acetaminophen_like,-9.0,-8.3,-8.2,3.0
+aspirin_like,-10.8,-8.1,-8.0,3.0
+atorvastatin_like,-8.8,-8.3,-8.2,3.0
+caffeine_like,-7.6,-7.5,-7.3,3.0
+diazepam_like,-8.0,-7.1,-7.0,3.0
+ibuprofen_like,-9.1,-8.8,-8.5,4.0
+ligand-b,-8.6,-7.3,-6.8,3.0
+metformin_like,-9.2,-9.0,-8.5,3.0
+morphine_like,-8.4,-8.4,-8.4,3.0
+original_ligand,-8.7,-7.8,-6.8,3.0
+warfarin_like,-8.1,-8.0,-7.7,4.0
